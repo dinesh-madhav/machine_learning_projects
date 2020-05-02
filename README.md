@@ -1,1 +1,3 @@
-# machine_learning_projects
+# Recent Machine Learning Projects
+- ExploratoryDataAnalysis_MachineLearningModel
+- SpamHam_NaiveBayesClassification_MachineLearningModel
